@@ -1,0 +1,7 @@
+<!-- Database Wrapper -->
+
+<?php 
+
+require_once'../app/init.php';
+
+$app = new App;
